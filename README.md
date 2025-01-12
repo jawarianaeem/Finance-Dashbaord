@@ -8,11 +8,11 @@ The objective of this project is to create a comprehensive financial dashboard t
 <a href="https://github.com/jawarianaeem/Finance-Dashbaord/blob/main/Data%20file%20.xlsx"/> Dataset link</a>
 
 ## Key Questions 
--The dashboard aims to address the following key questions:
--What are the yearly, monthly, and quarterly sales trends?
--How do gross profit and net profit change over time?
--What is the trend of marketing expenses compared to sales?
--How do profit margins vary across different regions and countries?
+- The dashboard aims to address the following key questions:
+- What are the yearly, monthly, and quarterly sales trends?
+- How do gross profit and net profit change over time?
+- What is the trend of marketing expenses compared to sales?
+- How do profit margins vary across different regions and countries?
 
 ## KPIs
 Key Performance Indicators (KPIs) calculated in the dashboard:
