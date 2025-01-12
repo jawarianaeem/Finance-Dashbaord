@@ -16,14 +16,14 @@ The objective of this project is to create a comprehensive financial dashboard t
 
 ## KPIs
 Key Performance Indicators (KPIs) calculated in the dashboard:
-Sales
-Gross Profit
-Net Profit
-EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)
-Operating Profit
-Profit by Income Tax
-Gross Profit Margin
-Net Profit Margin
+- Sales
+- Gross Profit
+- Net Profit
+- EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization)
+- Operating Profit
+- Profit by Income Tax
+- Gross Profit Margin
+- Net Profit Margin
 
 ## Dashboard Interaction 
 <a href= "https://github.com/jawarianaeem/Finance-Dashbaord/blob/main/Screenshot%202025-01-12%20at%2016.55.56.png">Dashboard </a>
